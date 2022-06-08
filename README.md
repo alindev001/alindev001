@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CityGuide, School Management System..**
 
-- 🌱 I’m currently learning **Java,VueJs,Laravel,Flutter,python**
+- 🌱 I’m currently learning **Java,VueJs,Symfony,Flutter,python**
 
 - 📫 How to reach me **alias.moila@gmail.com**
 
